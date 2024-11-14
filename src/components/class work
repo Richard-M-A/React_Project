@@ -1,0 +1,13 @@
+
+
+
+
+funtion contextparent() {
+    const [name, setname] = useState('nithiya';)
+    const [admin, isAdmin] = useState(false);
+    return (
+        //Step 2 : provide context Value
+        <stepContext. 
+        
+    )
+}
